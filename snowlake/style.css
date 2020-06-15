@@ -444,7 +444,7 @@ canvas {
     transition: all 0.3s;
     -webkit-transform: translateZ();
     height: auto;
-    width: auto;
+    width: 20%;
     max-width: none;
 }
 @media all and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: .001dpcm) {
@@ -6221,7 +6221,7 @@ footer.inverse-text address {
         border-radius: 0.2rem;
     }
     .navbar .navbar-nav .nav-link {
-        padding-right: 1.2rem;
+        padding-right: 2.2rem;
         padding-left: 1.2rem
     }
     .dropdown-menu:not(.mega-menu):not(.image-dropdown) {
