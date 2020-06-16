@@ -144,6 +144,24 @@ li,
 address {
     line-height: 1.4rem;
 }
+@font-face {
+    font-family: 'MohrRounded-BoldIt';
+    src: url('MohrRounded-BoldIt.woff2') format('woff2'),
+        url('MohrRounded-BoldIt.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-SemiBoldIt';
+    src: url('MohrRounded-SemiBoldIt.woff2') format('woff2'),
+        url('MohrRounded-SemiBoldIt.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
 input,
 button,
 select,

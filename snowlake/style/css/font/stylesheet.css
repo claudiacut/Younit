@@ -1,0 +1,225 @@
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-Bold.woff2') format('woff2'),
+        url('MohrRounded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-ExtraLightIt';
+    src: url('MohrRounded-ExtraLightIt.woff2') format('woff2'),
+        url('MohrRounded-ExtraLightIt.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-RegularIt';
+    src: url('MohrRounded-RegularIt.woff2') format('woff2'),
+        url('MohrRounded-RegularIt.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRoundedAlt';
+    src: url('MohrRoundedAlt-Heavy.woff2') format('woff2'),
+        url('MohrRoundedAlt-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-Thin.woff2') format('woff2'),
+        url('MohrRounded-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-BoldIt';
+    src: url('MohrRounded-BoldIt.woff2') format('woff2'),
+        url('MohrRounded-BoldIt.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-Medium.woff2') format('woff2'),
+        url('MohrRounded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRoundedAlt';
+    src: url('MohrRoundedAlt-Thin.woff2') format('woff2'),
+        url('MohrRoundedAlt-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-LightIt';
+    src: url('MohrRounded-LightIt.woff2') format('woff2'),
+        url('MohrRounded-LightIt.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-Regular.woff2') format('woff2'),
+        url('MohrRounded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-ExtraLight.woff2') format('woff2'),
+        url('MohrRounded-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-HeavyIt';
+    src: url('MohrRounded-HeavyIt.woff2') format('woff2'),
+        url('MohrRounded-HeavyIt.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRoundedAlt';
+    src: url('MohrRoundedAlt-ExtraLight.woff2') format('woff2'),
+        url('MohrRoundedAlt-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRoundedAlt';
+    src: url('MohrRoundedAlt-Bold.woff2') format('woff2'),
+        url('MohrRoundedAlt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-Light.woff2') format('woff2'),
+        url('MohrRounded-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRoundedAlt';
+    src: url('MohrRoundedAlt-Medium.woff2') format('woff2'),
+        url('MohrRoundedAlt-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRoundedAlt';
+    src: url('MohrRoundedAlt-Black.woff2') format('woff2'),
+        url('MohrRoundedAlt-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-SemiBoldIt';
+    src: url('MohrRounded-SemiBoldIt.woff2') format('woff2'),
+        url('MohrRounded-SemiBoldIt.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRoundedAlt';
+    src: url('MohrRoundedAlt-Light.woff2') format('woff2'),
+        url('MohrRoundedAlt-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-MediumIt';
+    src: url('MohrRounded-MediumIt.woff2') format('woff2'),
+        url('MohrRounded-MediumIt.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-Black.woff2') format('woff2'),
+        url('MohrRounded-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-SemiBold.woff2') format('woff2'),
+        url('MohrRounded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-BlackIt';
+    src: url('MohrRounded-BlackIt.woff2') format('woff2'),
+        url('MohrRounded-BlackIt.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded-ThinIt';
+    src: url('MohrRounded-ThinIt.woff2') format('woff2'),
+        url('MohrRounded-ThinIt.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MohrRounded';
+    src: url('MohrRounded-Heavy.woff2') format('woff2'),
+        url('MohrRounded-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
